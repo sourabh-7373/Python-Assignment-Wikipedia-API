@@ -81,26 +81,3 @@ To build the documentation yourself, after installing requirements.txt, run:
   $ cd docs/
   $ make html
 
-License
--------
-
-MIT licensed. See the `LICENSE
-file <https://github.com/goldsmith/Wikipedia/blob/master/LICENSE>`__ for
-full details.
-
-Credits
--------
-
--  `wiki-api <https://github.com/richardasaurus/wiki-api>`__ by
-   @richardasaurus for inspiration
--  @nmoroze and @themichaelyang for feedback and suggestions
--  The `Wikimedia
-   Foundation <http://wikimediafoundation.org/wiki/Home>`__ for giving
-   the world free access to data
-
-
-
-.. image:: https://d2weczhvl823v0.cloudfront.net/goldsmith/wikipedia/trend.png
-   :alt: Bitdeli badge
-   :target: https://bitdeli.com/free
-
